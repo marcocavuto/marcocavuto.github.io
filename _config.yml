@@ -23,7 +23,7 @@ repository               : "marcocavuto/marcocavuto.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Photo.png"
+  avatar           : "propic.png"
   name             : "Marco Cavuto"  
   bio              : "Phd student in Statistics & Computer Sciences"
   location         : "Milan"
